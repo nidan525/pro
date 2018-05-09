@@ -1,2 +1,2 @@
 <?php
-echo 'hello';
+curl "http://www.baidu.com";
